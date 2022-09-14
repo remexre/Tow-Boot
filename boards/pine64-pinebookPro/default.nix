@@ -21,6 +21,7 @@
       ./0001-rk3399-pinebook-pro-Support-SPI-flash-boot.patch
       ./0001-arch-arm-dts-Sync-rk3399-pinebook-pro-with-Linux.patch
       ./0005-PBP-Fix-Panel-reset.patch
+      ./0007-address-NVMe-instability.patch
 
       # phy: rockchip: inno-usb2: fix hang when multiple controllers
       (pkgs.fetchpatch {
